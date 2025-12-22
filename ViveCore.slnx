@@ -12,7 +12,6 @@
   <Folder Name="/Root/docs/">
     <File Path=".github/CONTRIBUTING.md" />
     <File Path=".github/LICENSE.md" />
-    <File Path=".github/SECURITY.md" />
     <File Path=".github/FUNDING.yml" />
   </Folder>
   <Project Path="Api/Api.csproj" />
